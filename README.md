@@ -44,12 +44,12 @@ Efficient Unity3D 3D CAD format loading plugin, supporting CAD formats such as C
 # Trial Download Link
 https://drive.google.com/file/d/11Z0tnkYFv3ePAFsQ-pLAuh3EISpm8135/view?usp=sharing
 
-# Using tutorials
+# Using Tutorials
 https://youtu.be/aSplMX-tc94
 https://drive.google.com/file/d/1FjTiQTzXQImaIfDdW2FJtUdQ3FzFMge3/view?usp=sharing
 
 # Purchase Address
-The plugin has been launched on the fab platform.
+The plugin has been launched on the fab platform.   
 https://fab.com/s/993d2954d930
 
 
