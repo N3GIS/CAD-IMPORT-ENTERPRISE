@@ -1,13 +1,13 @@
 # CAD IMPORT ENTERPRISE
 <div align="center">
-  <img src="../../images/logo.png" alt="Logo" width="128px" align="center" />
+  <img src="./images/logo.png" alt="Logo" width="128px" align="center" />
 </div>
 
 # SHORT DESCRIPTION:
 Efficient Unity3D 3D CAD format loading plugin, supporting CAD formats such as Catia, SolidWorks, Inventor, Rhino, JT, and PARASOLID. It also supports PIM, importing at different levels of precision, and offline use.
 
 <div align="center">
-  <img src="../../images/screencast_1.webp"/>
+  <img src="./images/screencast_1.webp"/>
 </div>
 
 # Features:
