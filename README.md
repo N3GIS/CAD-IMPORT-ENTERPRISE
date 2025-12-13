@@ -3,14 +3,14 @@
   <img src="../../blob/main/Images/logo.png" alt="Logo" width="128px" align="center" />
 </div>
 
-# SHORT DESCRIPTION:
+# SHORT DESCRIPTION
 Efficient Unity3D 3D CAD format loading plugin, supporting CAD formats such as Catia, SolidWorks, Inventor, Rhino, JT, and PARASOLID. It also supports PIM, importing at different levels of precision, and offline use.
 
 <div align="center">
   <img src="../../blob/main/Images/screencast_1.webp"/>
 </div>
 
-# Features:
+# Features
 1. Support STEP (AP203, AP214, AP242) 3D file format (.stp, .step)
 2. Support the import of PMI attributes of STEP （AP203、AP214）files
 3. Support the import of PMI attributes of CATIA （V5-6R2023、V5-6R2019、V5-6R2014、V5 R21 ） files
@@ -47,6 +47,10 @@ https://drive.google.com/file/d/11Z0tnkYFv3ePAFsQ-pLAuh3EISpm8135/view?usp=shari
 # Using tutorials
 https://youtu.be/aSplMX-tc94
 https://drive.google.com/file/d/1FjTiQTzXQImaIfDdW2FJtUdQ3FzFMge3/view?usp=sharing
+
+# Purchase Address
+The plugin has been launched on the fab platform.
+https://fab.com/s/993d2954d930
 
 
 # Technical Support
